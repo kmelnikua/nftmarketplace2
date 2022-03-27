@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    z-index: 10;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.a:visited,
+.a:active,
+.a:hover,
+.a {
+    text-decoration: none;
+}
+
+.nav-link:visited,
+.nav-link:active,
+.nav-link:hover,
+.nav-link {
+    color: #696871;
+    font-weight: bold;
+    font-family: DM Sans;
+}
+
+.logo {
+    border-right: 1px solid silver;
+}
+
+.DM-Sans {
+    font-family: DM Sans;
+}
+
+.form-control {
+    border: 2px solid #efefef !important;
+    box-sizing: border-box;
+    border-radius: 100px !important;
+}
+
+li,
+ul,
+ol {
+    margin: 0 !important;
+    padding: 0 !important;
+    text-decoration: none;
+}
+
+.Integral-CF {
+    font-family: Integral CF;
+}
+
+.fw-bold {
+    font-weight: bold !important;
+}
+
+.card-text {
+    font-size: calc(0.25rem + 1vw);
+    color: rgb(0, 102, 255);
+    vertical-align: inherit;
+    background: linear-gradient( 126.49deg, rgb(0, 163, 255) 0%, rgb(0, 102, 255) 100%) text;
+    font-size: calc(1rem + 1vw);
+    margin-top: 1rem;
+}
+
+.buy-now-btn {
+    border: none;
+    border-radius: 10px;
+    padding: .5rem 2rem;
+    background-color: coral;
+    color: white;
+}

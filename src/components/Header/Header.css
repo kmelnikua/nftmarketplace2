@@ -1,0 +1,12 @@
+.nav-link:visited,
+.nav-link:active,
+.nav-link:hover,
+.nav-link {
+    color: #696871;
+    font-weight: bold;
+    font-family: DM Sans;
+}
+
+.logo {
+    border-right: 1px solid silver;
+}

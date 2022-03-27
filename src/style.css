@@ -1,0 +1,97 @@
+.motivation-header {
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1.5rem + 1.5vw);
+    line-height: 48px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.motivation-undertext {
+    font-size: calc(0.25rem + 1.5vw);
+}
+
+.explore-now-btn {
+    background: #3d00b7;
+    border-radius: 60px;
+    color: white;
+}
+
+.why-us--main-text {
+    font-size: calc(1rem + 1.5vw);
+}
+
+.why-us--group span {
+    font-size: calc(0.125rem + 0.7vw);
+    color: #696969;
+}
+
+.why-us {
+    background: rgba(217, 224, 236, 0.2);
+    backdrop-filter: blur(50px);
+    width: 100%;
+}
+
+.card {
+    z-index: 100;
+    border-radius: 0.7rem !important;
+}
+
+.card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-text {
+    font-size: calc(0.25rem + 1vw);
+    color: rgb(0, 102, 255);
+    vertical-align: inherit;
+    background: linear-gradient( 126.49deg, rgb(0, 163, 255) 0%, rgb(0, 102, 255) 100%) text;
+}
+
+.load-more-btn {
+    border: none;
+    background: lightsalmon;
+    border-radius: 10px;
+    color: white;
+}
+
+.footer-text {
+    font-family: Averta Demo PE Cutted Demo;
+    line-height: 160%;
+    color: #565656;
+}
+
+.store {
+    background: rgba(217, 224, 236, 0.2);
+    backdrop-filter: blur(50px);
+}
+
+.subscription .headline {
+    line-height: 114%;
+    font-size: calc(1.325rem + 1.5vw) !important;
+}
+
+.subscription p {
+    color: #696871;
+}
+
+.hero .motivation-undertext {
+    font-family: Mulish;
+    line-height: 150%;
+}
+
+.main-header-color {
+    color: #19191b;
+}
+
+video {
+    width: 100%;
+    overflow: hidden;
+    border: none;
+}
+
+.--bs-gutter-x {
+    --bs-gutter-x: 0!important;
+}
