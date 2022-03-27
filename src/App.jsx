@@ -5,6 +5,7 @@ import { Header,Main,Shop } from "./components";
 import React from "react";
 
 const App=()=> {
+	console.log("peq");
 	return (
 		<div className="App">
 			<Router>
